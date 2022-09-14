@@ -11666,6 +11666,7 @@ h1,
 p.lead {
   font-size: 1.15rem;
   font-weight: 400;
+  text-align: justify;
 }
 
 .theme-color {
